@@ -14,21 +14,15 @@ header nav a {
 header nav .inactive {
     background-color: rgb(255, 255, 255);
 }
-.homePrincipal {
-    width: 40%;
-    margin-left: 5%;
-    padding-right: 45%;
-    padding-left: 5%;
-    padding-top: 15%;
-    padding-bottom: 15%;
+.primero {
     background-image: url('principal.jpg');
-    background-position: center;
-    margin-bottom: 5%;
-    border-radius: 15px;
+    padding: 3%;
 }
-.homePrincipal div {
-    background-color: rgba(255, 255, 255, 0.87);
-    border-radius: 15px;
-    padding-top: 5%;
-    padding-bottom: 5%;
+.primero div {
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.363);
+    margin: 5%;
+}
+.vertical {
+
 }
